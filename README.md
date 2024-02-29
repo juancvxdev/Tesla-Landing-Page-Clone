@@ -6,8 +6,8 @@ The main goal of this project is to recreate the Tesla landing page as a practic
 - Astro.js
 - HTML5, CSS3
 - JavaScript (for interactivity and data manipulation).
-- 
-- Optimization and Deployment:
+
+## Optimization and Deployment:
 
 Leverage Astro's optimization features to ensure efficient performance.
 Choice of a hosting service compatible with applications built with Astro.
